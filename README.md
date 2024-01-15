@@ -4,7 +4,7 @@ Hi there! I'm Julien. Software-builder, pizza-lover, dad, human being.
 
 ## 🔭 What I’m currently working on
 
-I'm building tools and the internal platform at [Valence Discovery](https://www.valencediscovery.com/), to help my very smart colleagues apply machine learning and other AI techniques towards the goal of accelerating drug discovery.
+I'm building tools and the internal platform at [Valence Labs](https://www.valencelabs.com/), to help my very smart colleagues apply machine learning and other AI techniques towards the goal of accelerating drug discovery.
 
 ## 🌱 What I’m currently learning
 
